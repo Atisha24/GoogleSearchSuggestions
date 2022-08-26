@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.search-list {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 16px;
+  list-style-type: none;
+}
+
+.suggestion-name {
+  color: #475569;
+  font-size: 14px;
+  font-family: 'Roboto';
+  margin: 0;
+}
+
+.arrow-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.arrow {
+  height: 16px;
+  width: 16px;
+}
